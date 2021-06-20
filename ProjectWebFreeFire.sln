@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectWebFreeFire", "ProjectWebFreeFire\ProjectWebFreeFire.csproj", "{35D54E3F-C281-47E0-B978-C9AD92F70DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D54E3F-C281-47E0-B978-C9AD92F70DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D54E3F-C281-47E0-B978-C9AD92F70DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D54E3F-C281-47E0-B978-C9AD92F70DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D54E3F-C281-47E0-B978-C9AD92F70DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F62F064-A2D8-4220-BEC6-695C948EBCB9}
+	EndGlobalSection
+EndGlobal
